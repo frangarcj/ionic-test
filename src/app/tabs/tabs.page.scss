@@ -1,0 +1,19 @@
+/* Styles specific to the tabs page */
+.tabs-page-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.tab-button {
+  flex-grow: 1;
+  text-align: center;
+  padding: 10px;
+  font-size: 16px;
+  color: #007bff;
+}
+
+.tab-button-active {
+  color: #fff;
+  background-color: #007bff;
+}
