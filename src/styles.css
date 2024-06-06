@@ -1,0 +1,36 @@
+/* Global styles for the Ionic app */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+ion-button {
+  --padding-start: 16px;
+  --padding-end: 16px;
+  --padding-top: 8px;
+  --padding-bottom: 8px;
+  --border-radius: 4px;
+}
+
+ion-header,
+ion-footer {
+  --background: #f8f9fa;
+}
+
+ion-toolbar {
+  --background: #007bff;
+  --color: #fff;
+}
+
+ion-content {
+  --background: #e9ecef;
+}
+
+ion-tab-bar {
+  --background: #343a40;
+  --color-selected: #007bff;
+}

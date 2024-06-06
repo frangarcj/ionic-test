@@ -1,0 +1,10 @@
+{
+  "name": "ionic-test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "projectRoot": "./src",
+  "proId": "123456",
+  "npmClient": "npm"
+}
